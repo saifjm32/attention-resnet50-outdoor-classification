@@ -21,8 +21,10 @@ The model improves classification performance by integrating spatial attention a
 - Improved performance compared to baseline ResNet50
 
 ## Repository Structure
+.
 ├── notebook/
-│ └── DEEPNEW.ipynb
+│   └── DEEPNEW.ipynb
 ├── paper/
-│ └── An_Attention_Enhanced_ResNet50_Framework.pdf
+│   └── dd(1).pdf
 └── README.md
+
