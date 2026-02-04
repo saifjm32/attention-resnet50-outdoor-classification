@@ -20,11 +20,3 @@ The model improves classification performance by integrating spatial attention a
 - Validation Accuracy: **~89.8%**
 - Improved performance compared to baseline ResNet50
 
-## Repository Structure
-.
-├── notebook/
-│   └── DEEPNEW.ipynb
-├── paper/
-│   └── dd(1).pdf
-└── README.md
-
